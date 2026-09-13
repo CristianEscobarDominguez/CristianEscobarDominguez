@@ -30,8 +30,8 @@ Actualmente ampliando conocimientos en arquitecturas web, despliegue de servicio
 * **Grado & Reconocimiento:** Proyecto de Fin de Grado (TFG — DAW) — **Matrícula de Honor**
 * **Stack Tecnológico:** Java, Spring Boot, Thymeleaf, JavaScript, HTML5, CSS3, SQL
 * **Descripción:** Portal de empleo web especializado en el sector IT que facilita el contacto directo entre empresas y perfiles técnicos a través de una interfaz intuitiva. Incluye gestión completa de usuarios y ofertas, integración con base de datos relacional y un módulo donde los candidatos pueden exponer su portafolio de proyectos para dar visibilidad a su trabajo ante reclutadores y la comunidad.
-* 👉 [Repo](https://github.com/CristianEscobarDominguez/PROgrammer)
-* Programmer Oficial 👉 [Repo](https://github.com/CristianEscobarDominguez/PROgrammer)
+* Proyecto en mi cuenta 👉 [Repo](https://github.com/CristianEscobarDominguez/PROgrammer)
+* Proyecto en la cuenta de Programmer Official 👉 [Repo](https://github.com/PROGrammer-Official/PROgrammer)
 
 ---
 
