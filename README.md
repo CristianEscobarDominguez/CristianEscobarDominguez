@@ -12,6 +12,7 @@ Actualmente ampliando conocimientos en arquitecturas web, despliegue de servicio
 
 * 📧 **Email:** crisescobardominguez@gmail.com
 * 🔗 **LinkedIn:** [linkedin.com/in/cristian-escobar-dominguez-dev](https://www.linkedin.com/in/cristian-escobar-dom%C3%ADnguez-dev/)
+* 📄 **[Descargar / Ver mi Currículum (PDF)](./CV_Cristian_Escobar.pdf)**
 
 ---
 
